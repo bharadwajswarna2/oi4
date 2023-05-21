@@ -270,7 +270,7 @@ window.addEventListener('DOMContentLoaded', function () {
                       <div class="chatbox__content--header">
                           <h4 class="chatbox__heading--header">OiMax</h4>
                       </div>
-                      <img src="close.png" onclick="document.getElementById('chatbox1').click()" class="close-btn" alt="image">
+                      <img src="https://cdn.jsdelivr.net/gh/optimus-ohya/oimax_chat@latest/frontend/images/close.png" onclick="document.getElementById('chatbox1').click()" class="close-btn" alt="image">
                   </div>
                   <hr/ class="hr-line">
                   <div class="chatbox__messages">
